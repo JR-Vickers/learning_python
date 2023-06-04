@@ -1,4 +1,3 @@
-"""
 1.  What is the value of the expression 2 * (3 + 4) in Python?
     14
 
@@ -28,4 +27,3 @@
 
 9.  How might you convert an octal, hexadecimal, or binary string to a plain integer?
     int(n, base)
-"""

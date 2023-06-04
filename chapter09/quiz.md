@@ -1,4 +1,3 @@
-"""
 1.  How can you determine how large a tuple is?  Why is this tool located where it is?
     len()
     It is built-in because its use spans many object types.
@@ -20,5 +19,3 @@
 
 7.  What is your quest?
     Mischiefmaxxing
-
-"""

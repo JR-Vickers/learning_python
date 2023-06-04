@@ -1,4 +1,3 @@
-"""
 1.  Consider the following three statements.  Do they change the value printed for A?
     A = "spam"
     B = A
@@ -19,4 +18,3 @@
     B[0] = "shrubbery"
 
     No, A is not changed.
-"""

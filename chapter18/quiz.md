@@ -1,4 +1,3 @@
-"""
 1.  What is the output of the following code, and why?
 def func(a, b=4, c=5):
     print(a, b, c)
@@ -35,4 +34,3 @@ l=1; m=[1]; n={'a':0}
 func(l, m, n)
 l, m, n 
 # This displays (1, ['x'], {'a': 'y'}); the first assignment in the function doesn't impact the caller, but the second two do because they change passed-in mutable objects in place.
-"""

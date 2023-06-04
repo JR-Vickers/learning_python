@@ -1,4 +1,3 @@
-"""
 1.  What three things are required in a C-like language but omitted in Python?
     Parentheses
     End-of-line statement
@@ -24,5 +23,3 @@
 
 8.  What is the most common coding mistake among Python beginners?
     Forgetting to type the colon character at the end of the header line in a compound statement.
-
-"""

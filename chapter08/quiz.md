@@ -1,4 +1,3 @@
-"""
 1.  Name two ways to build a list containing five integer zeros.
     l = [0, 0, 0, 0, 0]
     l = [0] * 5
@@ -23,5 +22,3 @@
 
 5.  Why might you use a dictionary instead of a list?
     Dictionaries are better when the data is labelled.
-
-"""

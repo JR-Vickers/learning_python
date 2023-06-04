@@ -1,4 +1,3 @@
-"""
 1.  What are the main functional differences between a while and a for?
     A while loop is a general looping statement; a for loop iterates through an object.
 
@@ -25,5 +24,3 @@
         print("Hello world!")
 
     This will print "Hello world!" 10 times.
-
-"""

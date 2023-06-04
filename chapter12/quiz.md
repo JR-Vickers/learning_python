@@ -1,4 +1,3 @@
-"""
 1.  How might you code a multiway branch in Python?
     if/elif/else statements
 
@@ -13,5 +12,3 @@
 
 4.  What do the words True and False mean?
     1 and 0, respectively.
-
-"""

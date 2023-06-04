@@ -1,4 +1,3 @@
-"""
 1.  Name three ways that you can assign three variables to the same value.
     A = B = C = 0
     A, B, C = 0, 0, 0
@@ -12,5 +11,3 @@
 
 4.  How might you use the print operation to send text to an external file?
     print(X, file=F)  # For Python 3.X
-
-"""

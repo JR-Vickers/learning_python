@@ -1,4 +1,3 @@
-"""
 1.  How are for loops and iterable objects related?
     All for loops uses the iteration protocol to step through items in the iterable object.
 
@@ -13,4 +12,3 @@
 
 4.  What is the best way to read line by line from a text file today?
     Don't read it at all - open the file within an iteration context tool and let it automatically scan one line at a time.
-"""

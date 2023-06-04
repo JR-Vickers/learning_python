@@ -1,4 +1,3 @@
-"""
 1.  Can the string find method be used to search a list?
     No.
 
@@ -24,5 +23,3 @@
 
 7.  Why might you use the string module instead of string method calls?
     You wouldn't, since it's deprecated.
-
-"""

@@ -1,4 +1,3 @@
-"""
 1.  How are lambda expressions and def statements related?
     They both create function objects.
 
@@ -24,4 +23,3 @@
     return statement
     changing passed-in mutable arguments
     setting global variables
-"""

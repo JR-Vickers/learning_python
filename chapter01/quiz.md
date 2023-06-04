@@ -1,4 +1,3 @@
-"""
 1.  What are the six main reasons that people choose to use Python?
     Software quality
     Developer productivity
@@ -33,4 +32,3 @@
 
 7.  What is your favorite color?
     Red
-"""

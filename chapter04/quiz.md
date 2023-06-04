@@ -1,4 +1,3 @@
-"""
 1.  Name four of Python's core data types.
     Numbers
     Strings
@@ -20,5 +19,3 @@
 
 6.  What is "polymorphism," and why should you care?
     It refers to the fact that the meaning of an operation depends on the object being operated on.  It matters because the same symbol can mean different things in different situations - for instance, if you try to add 2 and 2, you'd expect to get 4.  But if the 2s are strings, then you'd get '22'.
-
-"""

@@ -1,4 +1,3 @@
-"""
 1.  What is the Python interpreter?
     It's a program that executes other programs.
 
@@ -22,5 +21,3 @@
 7.  What are Stackless and PyPy?
     An alternate implementation of CPython aimed at concurrency.
     PyPy is an alternate implementation of CPython aimed at performance.
-
-"""

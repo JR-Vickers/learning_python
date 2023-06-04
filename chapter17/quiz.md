@@ -1,4 +1,3 @@
-"""
 1.  What is the output of the following code, and why?
 X = 'Spam'
 def func():
@@ -55,4 +54,3 @@ func() # This prints 'Spam', since the nested() function uses the nonlocal state
 
 7.  Name three or more ways to retain state information in a Python function.
     Using shared global variables, enclosing function scope references within nested functions, or using default argument values.
-"""

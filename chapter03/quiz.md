@@ -1,4 +1,3 @@
-"""
 1.  How can you start an interactive interpreter session?
     Type "python" in the command line.
 
@@ -27,4 +26,3 @@
 
 8.  What is a namespace, and how does it relate to module files?
     A namespace is package of variables.  The package consists of multiple module files linked together.
-"""
